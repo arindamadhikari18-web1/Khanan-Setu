@@ -121,3 +121,15 @@ Corrective Action
 Verification
     ↓
 Closure & Monitoring
+
+
+
+
+
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/arindamadhikari18-web1/Khanan-Setu.git
